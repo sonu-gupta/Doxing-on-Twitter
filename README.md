@@ -10,3 +10,5 @@ Demo 2 - Nudging the user to not post the Tweet that contains sensitive content 
 Demo 3 - Anonymizing the Tweet content if the user ignores the nudge.  <br>
 
 Note: Due to privacy concerns, I couldn't share the dataset. The dataset contains user's SSN and IP address information.
+
+PS. More description on methodology coming soon.
