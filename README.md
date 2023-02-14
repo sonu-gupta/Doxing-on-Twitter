@@ -1,6 +1,8 @@
 
 ## Prevention and Anonymization of Dox Content on Twitter
 
+This work was done as part of the course IST-597 Fundamentals of Privacy at Penn State.
+
 This repository contains the python code, trained model and the demo of the tool I developed. 
 
 Demo 1 - Classification of a Tweet to identify doxing  <br>
