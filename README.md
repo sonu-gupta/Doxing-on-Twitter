@@ -50,5 +50,4 @@ We model our problem as a binary classification task, with two classes being <i>
 
 Note: Due to privacy concerns, I couldn't share the dataset. The dataset contains user's SSN and IP address information.
 
-PS. More description on methodology coming soon.
-
+<p>Acknowledgement: I thank Younes Karimi, a PhD candidate in the Information Systems and Technology Department of Penn State, for his inputs. </p>
